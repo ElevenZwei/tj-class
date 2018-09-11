@@ -1,0 +1,11 @@
+{
+  "name": "tj-class",
+  "version": "1.0.0",
+  "description": "Tongji Class Selection Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eleven Z",
+  "license": "GPL-3.0-or-later",
+}
