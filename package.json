@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eleven Z",
-  "license": "GPL-3.0-or-later",
+  "repository": "https://github.com/elevenzwei/tj-class.git",
+  "license": "GPL",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
